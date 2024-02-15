@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.container{
+    margin-top: 200px;
+    padding: 20px 10px;
+    border-color: aquamarine;
+    border-style: solid;
+    max-height: fit-content;
+    background-color: aliceblue;
+}
+
+#text{
+    margin-top: 0px;
+    padding: 20px ;
+    width: fit-content;
+    cursor: text;
+}
+#add{
+    background-color: greenyellow;
+    padding: 20px;
+}
